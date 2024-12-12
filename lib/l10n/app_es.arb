@@ -1,0 +1,87 @@
+{
+  "@@locale": "es",
+  "welcome": "¡Bienvenido, {name}!",
+  "@welcome": {
+    "description": "Bienvenida en español",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Suraj"
+      }
+    }
+  },
+
+  "signup": "Regístrate",
+  "@signup": {
+    "description": "Texto para el botón de registro"
+  },
+  "signup_description": "Por favor, introduce tus credenciales para continuar",
+  "@signup_description": {
+    "description": "Mensaje de descripción para el registro"
+  },
+  "name": "Nombre",
+  "@name": {
+    "description": "Etiqueta para el campo del nombre"
+  },
+  "email": "Correo Electrónico",
+  "@email": {
+    "description": "Etiqueta para el campo del correo electrónico"
+  },
+  "password": "Contraseña",
+  "@password": {
+    "description": "Etiqueta para el campo de la contraseña"
+  },
+  "male": "Masculino",
+  "@male": {
+    "description": "Opción de género masculino"
+  },
+  "female": "Femenino",
+  "@female": {
+    "description": "Opción de género femenino"
+  },
+  "existingAccount": "¿Ya tienes una cuenta?",
+  "@existingAccount": {
+    "description": "Texto para indicar que el usuario ya tiene una cuenta"
+  },
+  
+  "mumbai": "Mumbai",
+  "@mumbai": {
+    "description": "Ciudad de Mumbai"
+  },
+  "pune": "Pune",
+  "@pune": {
+    "description": "Ciudad de Pune"
+  },
+  "nagpur": "Nagpur",
+  "@nagpur": {
+    "description": "Ciudad de Nagpur"
+  },
+  "nashik": "Nashik",
+  "@nashik": {
+    "description": "Ciudad de Nashik"
+  },
+  "autrangabad": "Aurangabad",
+  "@autrangabad": {
+    "description": "Ciudad de Aurangabad"
+  },
+  "solapur": "Solapur",
+  "@solapur": {
+    "description": "Ciudad de Solapur"
+  },
+  "thane": "Thane",
+  "@thane": {
+    "description": "Ciudad de Thane"
+  },
+  "kolhapur": "Kolhapur",
+  "@kolhapur": {
+    "description": "Ciudad de Kolhapur"
+  },
+  "amravati": "Amravati",
+  "@amravati": {
+    "description": "Ciudad de Amravati"
+  },
+  "satara": "Satara",
+  "@satara": {
+    "description": "Ciudad de Satara"
+  }
+}

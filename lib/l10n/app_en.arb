@@ -1,0 +1,64 @@
+
+{
+  "@@locale": "en",
+  "welcome": "Welcome, {name}!",
+  "@welcome": {
+    "description": "Welcome in english",
+    "placeholders": {
+      "name":{
+        "type": "String",
+        "example": "Suraj"
+      }
+    }  
+  },
+  "signup":"Sign Up",
+  "@signup":{},
+  "signup_description":"Please enter your credentials to proceed",
+  "name":"Name",
+  "email":"Email",
+  "password":"Password",
+  "male":"Male",
+  "female":"Female",
+  "existingAccount":"Already have an account?",
+
+  "mumbai":"Mumbai",
+  "@mumbai":{
+    "description": "Mumbai City"
+  },
+  "pune":"Pune",
+  "@pune":{
+    "description": "Pune City"
+  },
+  "nagpur":"Nagpur",
+  "@nagpur":{
+    "description": "Nagpur City"
+  },
+  "nashik":"Nashik",
+  "@nashik":{
+    "description": "Nashik City"
+  },
+  "autrangabad":"Aurangabad",
+  "@autrangabad":{
+    "description": "Autrangabad City"
+  },
+  "solapur":"Solapur",
+  "@solapur":{
+    "description": "Solapur City"
+  },
+  "thane":"Thane",
+  "@thane":{
+    "description": "Thane City"
+  },
+  "kolhapur":"Kolhapur",
+  "@kolhapur":{
+    "description": "Kolhapur City"
+  },
+  "amravati":"Amravati",
+  "@amravati":{
+    "description": "Amravati City"
+  },
+  "satara":"Satara",
+  "@satara":{
+    "description": "Satara City"
+  }
+}
